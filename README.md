@@ -1,16 +1,12 @@
-# pokemon_app
+# Pokémon Flutter App
 
-A new Flutter project.
+แอปแสดงข้อมูลโปเกม่อนจาก PokeAPI
 
-## Getting Started
+ความสามารถ
+- โหลดข้อมูลแบบ Load More
+- สลับ List View / Grid View
+- หน้า Detail แสดงข้อมูลครบ
+- Hero Animation
+- UI สวยงาม
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+สร้างด้วย Flutter + PokeAPI
